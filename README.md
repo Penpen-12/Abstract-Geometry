@@ -1,2 +1,5 @@
 # Abstract-Geometry
-This program is for creating an intereactive abstract geometric art    through coding.    To enlarge circles, Pressing R and pressing Spacebar to make it smaller.    Also, you can have fun with moving a little rocket around by pressing the UP, DOWN, LEFT, amd RIGHT.
+This program is for creating an interactive abstract geometric art through coding.  
+Press R to enlarge circles.
+Press Spacebar to make it smaller.    
+Pressing the UP, DOWN, LEFT, and RIGHT keys to move a little rocket around. 
